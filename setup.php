@@ -18,7 +18,7 @@ function plugin_version_dipassivedevice(): array
     return [
         'name'         => 'DataInjection - Dispositivo Passivo',
         'version'      => PLUGIN_DIPASSIVEDEVICE_VERSION,
-        'author'       => 'TRE-PI',
+        'author'       => 'Evandro Abreu',
         'license'      => 'GPLv2+',
         'homepage'     => '',
         'requirements' => [
